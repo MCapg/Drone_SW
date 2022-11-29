@@ -135,5 +135,3 @@ build.tmp.binaries/
 tasklist.json
 modules/esp_idf
 /Default/
-.cproject
-.project
