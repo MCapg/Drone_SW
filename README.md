@@ -8,10 +8,4 @@ For more informations about general Ardupilot projects, please check web pages :
 
 ## Developer Information ##
 
-- Github repository: <https://github.com/MCapg/Drone_SW>
-
-## Project members ##
-
-Project Sponsor : Nikolaos Yfantis
-
-Project Leader : Maxime Vanherle
+Github repository: <https://github.com/MCapg/Drone_SW>
